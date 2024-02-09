@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Generate tilemap
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: fca3c0bb75dae2c42b9c11a099757eeb, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: -2253911629886400664, guid: df3c1169114f6e441810d9091d7ff5d7, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: -2253911629886400664, guid: 56bf0c29ccec9df44b1b2efb4c00770d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 9100000, guid: f9f1186036aab654bac8bea60768924e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: eae1883d860852940bcd73dc3ca14969, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 38ff1f73a43a5284aaa694cd0a73e879, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 6b93e740cf357974185032a2a3c9ce57, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: e1ca39c495852c3489e4f74ff4ed18ed, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: -2253911629886400664, guid: 93e0d41b9b7f9ab44906cd499ade27b0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 18a8950c4df8be34b923ce1c33751253, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 67e5fefd23d593644be00d798d102b08, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 49c67b11751cb1845ab39c42ec89bf8e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 45d0c7dda2a25c14dbed43f701f0687d, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: -2253911629886400664, guid: 7b16ea75957c91c41bf406dfda86e149, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
